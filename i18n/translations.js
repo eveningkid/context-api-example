@@ -1,10 +1,14 @@
 const translations = {
-    en: {
-        proverbs: "Proverbs",
-    },
-    pt: {
-        proverbs: "Provérbios",
-    },
+  en: {
+    proverbs: "Proverbs",
+    back: "Back",
+    settings: "Settings"
+  },
+  pt: {
+    proverbs: "Provérbios",
+    back: "Voltar",
+    settings: "Configuracoes"
+  }
 };
 
 export default translations;
